@@ -1,0 +1,11 @@
+# Visual Studio Code
+.vscode/
+build/
+
+# CLion
+.idea/
+cmake-build-*/
+
+# Visual Studio
+.vs/
+out/
